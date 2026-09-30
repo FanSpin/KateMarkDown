@@ -1,12 +1,7 @@
-# just some practice 
-## nothing important
-
-
-BraveAnswers —httpsNOTssh
-
+# —httpsNOTssh
 This might be our biggest problem **on repeat:**  
 *“assuming github ssh key test was successful,*   
-*why does Linux KDE still ask for passwords”* 
+*why does Linux KDE still ask for passwords?”* 
 
 If ssh \-T git@github.com succeeds   
 “Hi \_\_\_\_\_\_\! You've successfully authenticated,   
