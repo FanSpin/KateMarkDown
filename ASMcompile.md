@@ -1,4 +1,4 @@
-# BraveAnswers –compile.asm
+# Compile.asm
 ## Q/A from our "Brave Answers (Ai chat box)"
 
 *“list deceives like NASM  assembly and various*  
