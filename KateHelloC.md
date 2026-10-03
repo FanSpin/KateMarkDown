@@ -1,10 +1,12 @@
-KateHelloC
+# KateHelloC
 
-list the and explain the steps needed to compile  
+*list the and explain the steps needed to compile  
  "c language" hello world including various file  
- types (e.g. source code, CMakeList, objects) 
+ types (e.g. source code, CMakeList, objects)* 
 
-## Source Code (.c)
+## the Q/A is the from "brave Ai" Some of the Mark Down
+
+# Source Code (.c)
 
 **\#include \<stdio.h\>**  
 **int main() {**  
@@ -12,7 +14,7 @@ list the and explain the steps needed to compile
     **return 0;**  
 **}**   
 
-## The Four Compilation Phases
+# The Four Compilation Phases
 
 | Phase | Input | Output | GCC Command |
 | :---- | :---- | :---- | :---- |
@@ -26,11 +28,11 @@ list the and explain the steps needed to compile
 3. Assembly — Converts the assembly (.s) into machine code, producing an object file (.o). The object file contains binary instructions but has unresolved references (e.g., printf is not yet linked).  
 4. Linking — Combines all object files with required libraries (e.g., libc for printf) to resolve all symbols and produce the final executable (no extension on Linux, .exe on Windows). 
 
-## One-Liner (what most people actually type)
+# One-Liner (what most people actually type)
 
 This runs all four phases in sequence, discarding intermediate files.
 
-## CMakeLists.txt (Build Automation)
+# CMakeLists.txt (Build Automation)
 
 For larger projects, you describe the build in a CMakeLists.txt file instead of typing raw gcc commands:
 
@@ -45,7 +47,7 @@ Then build with:
 
 CMake generates the appropriate compiler/linker commands (and a Makefile or equivalent) under the hood — it orchestrates the same four phases but scales to multi-file projects, libraries, and cross-compilation.
 
-## File Type Summary
+# File Type Summary
 
 | Extension | What it is |
 | :---- | :---- |
