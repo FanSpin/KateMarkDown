@@ -1,5 +1,5 @@
 # steps for Redirecting Branches
-## Q/A from our "Brave Answers (Ai chat box)"
+## Q/A from our "Brave browser (Ai chat box)"
 
 *“list git hub steps to redirect a local repository*   
 *named MadeKateWork from branch second*  
