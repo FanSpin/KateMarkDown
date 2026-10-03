@@ -1,5 +1,5 @@
 # failed to push some refs
-##   Q/A from our "Brave Answers (Ai chat box)"
+##   Q/A from our "Brave Browser (Ai chat box)"
 
 
 *“help with  error: failed to push some refs to '[github.com](http://github.com)://.git”*
