@@ -1,6 +1,6 @@
 # sync,fetch,pull
 
-## Q/A from our "Brave Answers (Ai chat box)"
+## Q/A from our "Brave Browser (Ai chat box)"
 
 *“describe with steps the correct synchronization*  
  *of an existing local repository  named MadeKateWork*  
