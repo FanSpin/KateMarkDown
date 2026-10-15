@@ -6,7 +6,7 @@
 
 The error failed to push some refs occurs because your local repository   
 is behind the remote repository, meaning   
-other commits exist on GitHub that are not yet in your local environment.  
+**other commits exist on GitHub that are not yet in your local environment.**  
 To fix this,   
 synchronize your local changes with the remote repository  
  using one of the following methods:
